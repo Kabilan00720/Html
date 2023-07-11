@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px;
+      border: 1px solid
+    }
+    th {
+      background-color:#f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h2>Team Information</h2>
+  <table>
+    <tr>
+      <th>Team</th>
+      <th>City</th>
+      <th>Home Ground</th>
+      <th>Debut</th>
+      <th>Owner</th>
+    </tr>
+    <tr>
+      <td>Chennai Super Kings</td>
+      <td>Chennai, Tamil Nadu</td>
+      <td>M.A. Chidambaram Stadium</td>
+      <td>2008</td>
+      <td>N. Srinivasan</td>
+    </tr>
+    <tr>
+      <td>Delhi Capitals</td>
+      <td>New Delhi, Delhi</td>
+      <td>Arun Jaitley Stadium</td>
+      <td>-</td>
+      <td>Sajjan Jindal, G.M. Rao, Steve Koltes</td>
+    </tr>
+    <tr>
+      <td>Gujarat Titans</td>
+      <td>Ahmedabad, Gujarat</td>
+      <td>Narendra Modi Stadium</td>
+      <td>2022</td>
+      <td>Jay Mehta, Shah Rukh Khan, Juhi Chawla</td>
+    </tr>
+    <tr>
+      <td>Kolkata Knight Riders</td>
+      <td>Kolkata, West Bengal</td>
+      <td>Eden Gardens</td>
+      <td>-</td>
+      <td>Juhi Chawla, Jay Mehta</td>
+    </tr>
+    <tr>
+      <td>Lucknow Super Giants</td>
+      <td>Lucknow, Uttar Pradesh</td>
+      <td>BRSABV Ekana Cricket Stadium</td>
+      <td>2008</td>
+      <td>Sanjiv Goenka</td>
+    </tr>
+  </table>
+</body>
+</html>
